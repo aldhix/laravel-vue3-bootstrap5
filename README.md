@@ -1,2 +1,2 @@
-# Laravel Vue3 Bootstrap5
-Komponen-komponen  Bootstrap 5 dengan Vue 3 pada Laravel 
+# Laravel Vue-3 Bootstrap-5
+Komponen-komponen sederhana Bootstrap 5 dengan Vue 3 pada Laravel 
